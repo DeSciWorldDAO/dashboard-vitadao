@@ -1,4 +1,4 @@
-# dashboard-vitadao
-VitaDAO dashboard code
+## Please feel free to pull a request in case you see any errors in the project's dashboard at https://desci.world/dashboard
 
-```{"_id":{"$oid":"625fb37edcfaec643ea479aa"},"name":"VitaDAO","tokenSymbol":"VITA","DaoOS":"Snapshot","address":"","description":"VitaDAO is a DAO collective for community-governed and decentralized drug development. Their core mission is the acceleration of research and development (R&D) in the longevity space and the extension of human life and healthspan. To achieve this, VitaDAO collectively funds and digitizes research in the form of IP-NFTs.","whitePaperLink":"https://github.com/VitaDAO/whitepaper/blob/master/VitaDAO_Whitepaper.pdf","gallery":[],"deleted":false,"primaryColor":"#ffdd35","twitterHandle":"vita_dao","coingeckoId":"vitadao","snapshotId":"vote.vitadao.eth","logo":"https://global-uploads.webflow.com/600ff0f8154936050d98ec01/6179a1b748955b071c6eeca6_vitadao-logo-dark.svg","telegramLink":"https://t.me/vitadao","discordLink":"https://discord.com/invite/3S3ftnmZYD","website":"https://www.vitadao.com/","tokenDescription":"Ownership of $VITA allows the holder to participate in the curation and governance of VitaDAOs assets and its research","tokenTradeLink":"https://cowswap.exchange/#/swap?referral=0xF5307a74d1550739ef81c6488DC5C7a6a53e5Ac2&inputCurrency=ETH&outputCurrency=0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321","tags":["Biopharma","Science DeFi","Philantropy"]}```
+
+
